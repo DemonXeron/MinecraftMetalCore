@@ -2,7 +2,7 @@
 A gamemode for minecraft using hardcore minecraft mechanics
 
 ----
-## Achievements
+### Achievements
 ----
 You obtain the achievement when you defeat the dragon having followed the rules up to that point.
 
@@ -19,7 +19,7 @@ You obtain the achievement when you defeat the dragon having followed the rules 
 More to be added later
 
 ----
-## Modifiers
+### Modifiers
 ----
 1. Extended - Play the game until the first death. See scoring system.
 2. Limited - Play for a limited number of game days. (You can set this yourself, I recommend 20)
@@ -27,6 +27,6 @@ More to be added later
 4. Phoenix - Play on Hard rather than hardcore. (The "Easy" or "Practice" version of this gamemode)
 
 ----
-## Scoring system (VERY WIP)
+### Scoring system (VERY WIP)
 ----
 1. Kill the dragon - 3 points
